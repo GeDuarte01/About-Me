@@ -27,4 +27,4 @@ O projeto foi desenvolvido para testar meu aprendizado em HTML e CSS. Também fo
 
 ## Acessibilidade e Melhorias
 
-Foi criada uma documentação com as melhorias em acessibilidade que foram implementadas nesse projeto. Você poderá acessar esse documento através do PDF [Análise de Acessibilidade](../analise%20de%20acessibilidade/Análise%20de%20acessibilidade%20-%20Atividade%201.pdf).
+Foi criada uma documentação com as melhorias em acessibilidade que foram implementadas nesse projeto. Você poderá acessar esse documento através do PDF [Análise de Acessibilidade](./analise%20de%20acessibilidade/Análise%20de%20acessibilidade%20-%20Atividade%201.pdf).
