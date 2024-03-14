@@ -1,0 +1,142 @@
+:root {
+    --body-font: "Montserrat", sans-serif;
+    --color-turquoise: #01FFF0;
+    --color-white: #FFFFFF;
+    --color-gray: #B6BFC1;
+    --color-darkblue: #05161A;
+    --body-gradient: linear-gradient(249deg, #05161A -0.5%, #003845 49.75%, #05161A 100%);
+
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+profile {
+    width: 652px;
+    height: 822px;
+    flex-shrink: 0;
+    display: block;
+}
+ul, ol {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: var(--color-white);
+    transition: .5s"
+}
+
+.header-page a:hover {
+    color: var(--color-turquoise);
+    border: 1px outset #01FFF0;
+    border-radius: 50px;
+    font-weight: 700;
+    margin: 2px;
+    padding: 16px;
+    transition: .3s;
+}
+
+#apresentação a {
+    color: var(--color-turquoise);
+    font-size: 30px;
+    line-height: 100px;
+    padding: 24px 34px 0 0;
+    transition: 0.2s;
+}
+
+#apresentação a:hover {
+    color: var(--color-white);
+}
+
+#nome-sobre a {
+    color: var(--color-turquoise);
+    font-size: 30px;
+    line-height: 100px;
+    padding: 24px 34px 0 0;
+    transition: 0.2s;
+}
+
+#nome-sobre a:hover {
+    color: var(--color-white);
+}
+
+h1 {
+    color: var(--color-white);
+    font-size: 124px;
+    font-family: 'Josefin Sans';
+    font-weight: 700;
+    line-height: 120px;
+    word-wrap: 'break-word';
+    
+}
+
+h2 {
+    color: var(--color-gray);
+    font-size: 26px;
+    font-family: 'Montserrat';
+    font-weight: 300;
+    line-height: 34px;
+    word-wrap: 'break-word';
+}
+
+h3 {
+    color: var(--color-white);
+    font-size: 34px;
+    font-family: 'Josefin Sans';
+    font-weight: 700;
+    line-height: 42px;
+    word-wrap: 'break-word';
+}
+
+h4 {
+    color: var(--color-white);
+    font-size: 24px;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    line-height: 48px;
+    word-wrap: 'break-word';
+}
+
+h5 {
+    color: var(--color-gray);
+    font-size: 20px;
+    font-family: 'Montserrat';
+    font-weight: 300;
+    line-height: 28px;
+    word-wrap: 'break-word';
+}
+
+p {
+    width: 904px;
+    color: var(--color-white);
+    font-size: 18px;
+    font-family: 'Montserrat';
+    font-weight: 300;
+    line-height: 26px;
+    word-wrap: 'break-word';
+}
+
+#anterior ul {
+    color: var(--color-white);
+    width: 580px;
+    font-size: 16px;
+    font-family: 'Montserrat';
+    font-weight: 300;
+    line-height: 24px;
+    word-wrap: 'break-word';
+}
+
+#atual ul {
+    color: var(--color-white);
+    width: 580px;
+    font-size: 16px;
+    font-family: 'Montserrat';
+    font-weight: 300;
+    line-height: 24px;
+    word-wrap: 'break-word';
+}
